@@ -67,7 +67,7 @@ require (
 	github.com/google/go-tpm v0.9.8 // indirect
 	github.com/hashicorp/go-version v1.9.0 // indirect
 	github.com/iwdgo/sigintwindows v0.2.2 // indirect
-	github.com/klauspost/compress v1.18.7 // indirect
+	github.com/klauspost/compress v1.20.2 // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/pulumi/pulumi-cloud-sdk/go v1.20261106.0 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
